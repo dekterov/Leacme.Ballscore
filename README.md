@@ -4,6 +4,7 @@
 
 This application features the ability to simulate balls dropping through an array of pins.
 
+![index](https://user-images.githubusercontent.com/6654513/71701714-69ad7900-2d88-11ea-8000-73760b1ccc71.png)
 ![][image_screenshot]
 
 ## Application Compiling
